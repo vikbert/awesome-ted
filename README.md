@@ -4,6 +4,16 @@
 
 > A curated list of the realy awesome talks from TED, that can be watched again and again.
 
+---
+
+## TED official resources
+- [TEDx Talks](https://www.youtube.com/channel/UCsT0YIqwnpJCM-mx7-gSA4Q)
+- [TEDx Youth](https://www.youtube.com/user/TEDxYouth/videos)
+- [TED-Ed](https://www.youtube.com/user/TEDEducation)
+- [TED-Ed student talks](https://www.youtube.com/channel/UCskU_g7t6b5ecsA1CTS3y9Q)
+
+
+## All really good TED talks
 
 - Linus Torvalds: [The mind behind Linux](https://www.ted.com/talks/linus_torvalds_the_mind_behind_linux)
 
